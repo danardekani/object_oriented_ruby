@@ -1,0 +1,3 @@
+  def price
+    @price
+  end
